@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+11/6/14
 
 # What is the most difficult part about this week's challenge?
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](4j-checkpoint-1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](4j-checkpoint-2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](4j-checkpoint-3.png)
 
 # MongoDB IV
 
