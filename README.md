@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Chris Wittenberg
 
 # How many points have you earned?
 
-0/100
+30/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -14,11 +14,11 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Wednesday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting the damn neo4j to find the right version of java.
 
 # Graph Database I
 
@@ -44,16 +44,16 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1Q.png)
 
 
 ### 2. (5 point)
@@ -225,28 +225,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint7.png)
