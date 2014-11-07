@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/CP1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/CP2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/CP3.png)
 
 # MongoDB IV
 
