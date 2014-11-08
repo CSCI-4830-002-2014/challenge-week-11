@@ -4,7 +4,7 @@ Alexander Tsankov
 
 # How many points have you earned?
 
-0/100
+50/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -75,16 +75,16 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-3-count.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-3-findone.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-3-query.png)
 
 
 ### 4. (5 point)
@@ -225,19 +225,19 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3-checkpoint-1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3-checkpoint-2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3-checkpoint-3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3-checkpoint-4.png)
 
 ### 5. (5 point)
 
