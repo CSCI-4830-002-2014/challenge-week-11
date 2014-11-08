@@ -44,32 +44,32 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-1-count.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-1-findone.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-1-query.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-2-count.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-2-findone.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongo-challenge-2-query.png)
 
 ### 3. (5 point)
 

@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 var mongo = require('mongoskin');
-var db = mongo.db("mongodb://{USERNAME}:{PASSWORD}@{SEVERURL}", {native_parser:true});
+var db = mongo.db("mongodb://user:user@localhost", {native_parser:true});
 
 app.engine('.html', require('ejs').__express);
 app.set('views', __dirname);
