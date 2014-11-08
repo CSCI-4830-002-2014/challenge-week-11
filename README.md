@@ -4,13 +4,13 @@ Brian Newsom
 
 # How many points have you earned?
 
-0/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6
 
 # When did you first start working on this week's learning challenges?
 
@@ -18,7 +18,8 @@ Friday afternoon
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Prepping the data for mongo was WAY harder than anything else in this assignment.  I spent so much time trying to get the datasets in the format
+required.  Especially since we used 3 datasets instead of just working with one once we had it figured out.
 
 # Graph Database I
 
@@ -48,28 +49,28 @@ Count
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongodb/ch1.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongodb/ch1.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongodb/ch2.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongodb/ch2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongodb/ch2.png)
 
 ### 3. (5 point)
 
