@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Brian Newsom
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Friday afternoon
 
 # What is the most difficult part about this week's challenge?
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graph/cp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graph/cp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graph/cp3.png)
 
 # MongoDB IV
 
@@ -225,28 +225,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/cp7.png)
