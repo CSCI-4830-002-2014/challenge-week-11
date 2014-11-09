@@ -1,24 +1,22 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
 0/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8 hours
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Sunday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Machine Learning
 
 # Graph Database I
 
@@ -26,15 +24,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/neo4j/checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/neo4j/checkpoint2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/neo4j/checkpoint3.png)
 
 # MongoDB IV
 
@@ -44,66 +42,66 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge1.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge1.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge2.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge2.png)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge3.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge3.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge3.png)
 
 
 ### 4. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge4.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge4.png)
 
 Query 1
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge4.png)
 
 Query 2
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/mongodb/challenge4.png)
 
 
 # Machine Learning III
@@ -225,28 +223,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/d3/challenge7.png)
