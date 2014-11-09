@@ -1,0 +1,81 @@
+mongoimport -d mydb -c reviews --type json --file yelp_academic_dataset_review.json --jsonArray
+
+mongoimport -d mydb --collection businesses --file businesses.mongo.json --jsonArray
+
+mongoimport -d mydb --collection tist --file tist.json --jsonArray
+
+visit_id,country,cluster_id,location_id,location_name,location_kind,latitude,longitude,quantifier_id,quantifier_initials
+
+db.businesses.find({
+  location: {
+    $near: {
+      $geometry: {
+  type: "Point",
+  coordinates: [-112.0667, 33.4500]
+      },
+      $maxDistance: 200
+    }
+  }
+})
+
+db.tist.find({'country' : 'IN'},{'location.kind':-1})
+
+db.createUser(
+   {
+     user: "user",
+     pwd: "user",
+     roles: [ "readWrite", "dbAdmin" ]
+   }
+)
+
+
+use mydb
+db.createUser(
+  {
+    user: "user",
+    pwd: "password",
+    roles:
+    [
+      {
+        role: "readWrite",
+        db: "mydb"
+      }
+    ]
+  }
+)
+
+use mydb
+db.createUser(
+  {
+    user: "jesus",
+    pwd: "jesus",
+    roles:
+    [
+      {
+        role: "userAdmin",
+        db: "mydb"
+      }
+    ]
+  }
+)
+
+
+
+
+db.foo.find( { 'bad' : { $type : 2} } ).forEach( function (x) {   
+  x. = new double(x.bad); 
+  db.tist.save(x);
+});
+
+
+db.tist.find({
+  location: {
+    $near: {
+      $geometry: {
+  type: "Point",
+  coordinates: [12.6907000000,79.3963000000]
+      },
+      $maxDistance: 200
+    }
+  }
+})

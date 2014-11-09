@@ -38,7 +38,6 @@
       }
 
       .markers circle {
-        fill: brown;
         stroke: black;
         stroke-width: 1.5px;
       }
@@ -58,7 +57,6 @@
     <script type="text/javascript">
 
       var dataset = <%- JSON.stringify(data) %>;   
-
       // Set the center location (lat/lng) to be the location of the first business                  
       var first = dataset[0];
       var centerLatLng = new google.maps.LatLng(first.latitude, first.longitude);
@@ -73,7 +71,8 @@
       // Create an overlay
       var overlay = new google.maps.OverlayView();
 
-
+      var scale = d3.scale.linear(function(d) { return d.review_count; }
+      );
       // Add the container when the overlay is added to the map.
       overlay.onAdd = function() {
       var layer = d3.select(this.getPanes().overlayLayer).append("div")
@@ -83,7 +82,6 @@
       overlay.draw = function() {
         var projection = this.getProjection(),
             padding = 10;
-
 
         var marker = layer.selectAll("svg")
             .data(dataset)
@@ -97,6 +95,16 @@
             .attr("r", 4.5)
             .attr("cx", padding)
             .attr("cy", padding)
+            .attr('fill-opacity', .5)
+            .attr("fill", function (d){
+              var count = d.stars
+              if (count >= 4)
+                return 'red';
+              if (count >= 3)
+                return 'brown';
+              else 
+                return 'black';
+            });
 
         // Add a label.
         marker.append("svg:text")
