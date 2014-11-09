@@ -4,11 +4,11 @@ Niklas Fejes
 
 # How many points have you earned?
 
-0/100
+95/100
 
 # How many hours have you spent on this?
 
-8 hours
+10 hours
 
 # When did you first start working on this week's learning challenges?
 
@@ -101,99 +101,99 @@ Query 2
 
 ### 1. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 86.0174%
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = 1; % Adds accelerometer features
+	add_gyroscope = 0; % Adds gyroscope features
+	add_magneticField = 1; % Adds magnetic field features
+	add_gravity = 1; % Adds gravity features
+	add_linearAcceleration = 0; % Adds linear acceleration features
+	add_orientation = 0; % Adds azimuth, pich and roll features
+	add_light = 1; % Adds light value
+	add_proximity = 0; % Adds proximity value
+	add_studentID = 0; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
 	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
 	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
 	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	K = 15; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 2. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 89.5853%
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = 0; % Adds accelerometer features
+	add_gyroscope = 1; % Adds gyroscope features
+	add_magneticField = 1; % Adds magnetic field features
+	add_gravity = 0; % Adds gravity features
+	add_linearAcceleration = 1; % Adds linear acceleration features
+	add_orientation = 0; % Adds azimuth, pich and roll features
+	add_light = 0; % Adds light value
+	add_proximity = 0; % Adds proximity value
+	add_studentID = 0; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
 	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
 	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
 	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 3. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 86.8852%
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = 0; % Adds accelerometer features
+	add_gyroscope = 1; % Adds gyroscope features
+	add_magneticField = 1; % Adds magnetic field features
+	add_gravity = 0; % Adds gravity features
+	add_linearAcceleration = 1; % Adds linear acceleration features
+	add_orientation = 0; % Adds azimuth, pich and roll features
+	add_light = 0; % Adds light value
+	add_proximity = 0; % Adds proximity value
+	add_studentID = 1; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
 	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
 	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
 	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 4. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 82.4494%
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = 0; % Adds accelerometer features
+	add_gyroscope = 1; % Adds gyroscope features
+	add_magneticField = 0; % Adds magnetic field features
+	add_gravity = 0; % Adds gravity features
+	add_linearAcceleration = 1; % Adds linear acceleration features
+	add_orientation = 0; % Adds azimuth, pich and roll features
+	add_light = 0; % Adds light value
+	add_proximity = 1; % Adds proximity value
+	add_studentID = 0; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
+	numTrees = 2; % Try different number of trees for the Random Forest classifier
 	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
 	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
 	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier

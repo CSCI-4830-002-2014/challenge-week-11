@@ -1,9 +1,6 @@
 var d3 = require('d3');
 var fs = require('fs');
 
-var ebirddata = fs.readFileSync('ebird1k.txt').toString();
-var json = d3.tsv.parse(ebirddata);
-
 function mapfunc(r) {
 	var d = {};
 	// Lower-case, underscores
@@ -24,4 +21,7 @@ function mapfunc(r) {
 	return d;
 }
 
-fs.writeFileSync('ebird.json', JSON.stringify(json.map(mapfunc)));
+var ebirddata = fs.readFileSync('ebird1M.tsv').toString();
+var json = d3.tsv.parse(ebirddata, mapfunc);
+
+fs.writeFileSync('ebird1M.json', JSON.stringify(json));
