@@ -111,17 +111,17 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/Jf5iLHO.png)
 
 ### 2. (5 point)
-
-![screenshot](screenshot.png)
+Yes, accuracy increased with the change
+![screenshot](http://i.imgur.com/joLrZcv.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
 ### 1. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = {82.4494}
 
 Features/Parameters
 
