@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -14,11 +14,12 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+CSV to JSON. Not difficult, just time consuming to figure it out.
+Also, too many screen shots required again. When proving that you did a task takes longer than the task itself, that's an issue.
 
 # Graph Database I
 
@@ -26,15 +27,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/neocp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/neocp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/neocp3.png)
 
 # MongoDB IV
 
@@ -44,16 +45,16 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo1count.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo1findone.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo1custom.png)
 
 
 ### 2. (5 point)
