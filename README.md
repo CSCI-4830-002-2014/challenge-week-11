@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/cjg7r4wuhs7mih0/Screenshot%202014-11-08%2014.02.17.png?dl=1)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/xujkdmlsl2omyft/Screenshot%202014-11-08%2014.03.51.png?dl=1)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/gswflq6mgvfexj9/Screenshot%202014-11-08%2014.06.01.png?dl=1)
 
 # MongoDB IV
 
@@ -44,32 +44,32 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/pm240wb9vudf8k9/Screenshot%202014-11-08%2017.00.37.png?dl=1)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/ebqj1nxmp2buk8d/Screenshot%202014-11-08%2017.00.21.png?dl=1)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/jj0zgikky8xfiom/Screenshot%202014-11-08%2017.02.21.png?dl=1)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/k380ya8z1y0sff5/Screenshot%202014-11-08%2016.57.10.png?dl=1)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/k380ya8z1y0sff5/Screenshot%202014-11-08%2016.57.10.png?dl=1)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/pvc09zqftof17fy/Screenshot%202014-11-08%2017.03.37.png?dl=1)
 
 ### 3. (5 point)
 
