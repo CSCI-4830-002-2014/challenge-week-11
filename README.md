@@ -61,16 +61,15 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo2count.png)
 
 FindOne
 
-![screenshot](screenshot.png)
-
+![screenshot](images/mongo2findone.png)
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo2custom.png)
 
 ### 3. (5 point)
 
