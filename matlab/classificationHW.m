@@ -5,14 +5,14 @@ filename_path = './raw_touch_data.csv';
 
 %%%%%%%%% Choose feature source %%%%%%%%%%%
 add_accelerometer = true; % Adds accelerometer features
-add_gyroscope = false; % Adds gyroscope features
-add_magneticField = true; % Adds magnetic field features
+add_gyroscope = true; % Adds gyroscope features
+add_magneticField = false; % Adds magnetic field features
 add_gravity = false; % Adds gravity features
 add_linearAcceleration = false; % Adds linear acceleration features
 add_orientation = false; % Adds azimuth, pich and roll features
 add_light = true; % Adds light value
-add_proximity = false; % Adds proximity value
-add_studentID = false; % Adds student ID
+add_proximity = true; % Adds proximity value
+add_studentID = true; % Adds student ID
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
