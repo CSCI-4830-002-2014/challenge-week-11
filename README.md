@@ -152,23 +152,23 @@ Accuracy = 64.1273
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-add_accelerometer = false; % Adds accelerometer features
-add_gyroscope = false; % Adds gyroscope features
-add_magneticField = true; % Adds magnetic field features
-add_gravity = false; % Adds gravity features
-add_linearAcceleration = false; % Adds linear acceleration features
-add_orientation = false; % Adds azimuth, pich and roll features
-add_light = true; % Adds light value
-add_proximity = false; % Adds proximity value
-add_studentID = false; % Adds student ID
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = true; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-numTrees = 1; % Try different number of trees for the Random Forest classifier
-sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
-dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-K = 20; % Try different values of K for the K-nearest Neighbor classifier
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
+	numTrees = 1; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 20; % Try different values of K for the K-nearest Neighbor classifier
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 3. (5 point)
 
@@ -176,24 +176,24 @@ Accuracy = 60.2700
 
 Features/Parameters
 
-%%%%%%%%% Choose feature source %%%%%%%%%%%
-add_accelerometer = false; % Adds accelerometer features
-add_gyroscope = false; % Adds gyroscope features
-add_magneticField = true; % Adds magnetic field features
-add_gravity = false; % Adds gravity features
-add_linearAcceleration = false; % Adds linear acceleration features
-add_orientation = false; % Adds azimuth, pich and roll features
-add_light = true; % Adds light value
-add_proximity = false; % Adds proximity value
-add_studentID = false; % Adds student ID
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%% Choose feature source %%%%%%%%%%%
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = true; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-numTrees = 10; % Try different number of trees for the Random Forest classifier
-sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
-dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-K = 20; % Try different values of K for the K-nearest Neighbor classifier
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
+	numTrees = 10; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 20; % Try different values of K for the K-nearest Neighbor classifier
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 4. (5 point)
 
@@ -201,24 +201,24 @@ Accuracy = 57.5699
 
 Features/Parameters
 
-%%%%%%%%% Choose feature source %%%%%%%%%%%
-add_accelerometer = false; % Adds accelerometer features
-add_gyroscope = false; % Adds gyroscope features
-add_magneticField = true; % Adds magnetic field features
-add_gravity = false; % Adds gravity features
-add_linearAcceleration = false; % Adds linear acceleration features
-add_orientation = false; % Adds azimuth, pich and roll features
-add_light = true; % Adds light value
-add_proximity = false; % Adds proximity value
-add_studentID = false; % Adds student ID
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%% Choose feature source %%%%%%%%%%%
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = true; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-numTrees = 10; % Try different number of trees for the Random Forest classifier
-sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
-dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-K = 20; % Try different values of K for the K-nearest Neighbor classifier
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
+	numTrees = 10; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 20; % Try different values of K for the K-nearest Neighbor classifier
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 # D3 (VI) (5 points x 7 = 35 points)
