@@ -225,28 +225,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/CP7.png)
