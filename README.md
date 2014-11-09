@@ -40,32 +40,13 @@ Machine Learning
 
 ### 1. (5 point)
 
-Count
+Count, FindOne, Query
 
 ![screenshot](screenshots/mongodb/challenge1.png)
-
-FindOne
-
-![screenshot](screenshots/mongodb/challenge1.png)
-
-
-Query
-
-![screenshot](screenshots/mongodb/challenge1.png)
-
 
 ### 2. (5 point)
 
-Count
-
-![screenshot](screenshots/mongodb/challenge2.png)
-
-FindOne
-
-![screenshot](screenshots/mongodb/challenge2.png)
-
-
-Query
+Count, FindOne, Query
 
 ![screenshot](screenshots/mongodb/challenge2.png)
 
@@ -73,16 +54,16 @@ Query
 
 Count
 
-![screenshot](screenshots/mongodb/challenge3.png)
+![screenshot](screenshots/mongodb/challenge3a.png)
 
 FindOne
 
-![screenshot](screenshots/mongodb/challenge3.png)
+![screenshot](screenshots/mongodb/challenge3b.png)
 
 
 Query
 
-![screenshot](screenshots/mongodb/challenge3.png)
+![screenshot](screenshots/mongodb/challenge3c.png)
 
 
 ### 4. (5 point)
