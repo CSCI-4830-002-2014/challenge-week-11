@@ -43,53 +43,51 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/edoqGPB.png) 
 
 FindOne
 
-![screenshot](screenshot.png)
-
+![screenshot](http://i.imgur.com/w4tczVz.png)
 
 Query
 
-![screenshot](screenshot.png)
-
+![screenshot](http://i.imgur.com/qjgJXLp.png)
 
 ### 2. (5 point)
 
+
 Count
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/8LKHSYc.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/Vucj8GB.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/u55QMoi.png)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/iFW8hNb.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/1HbplXB.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/ZBcWZsf.png)
 
 
 ### 4. (5 point)
 
-Count
-
+Count 
 ![screenshot](screenshot.png)
 
 FindOne
