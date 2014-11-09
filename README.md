@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/1.checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/1.checkpoint2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/1.checkpoint3.png)
 
 # MongoDB IV
 
