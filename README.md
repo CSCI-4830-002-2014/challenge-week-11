@@ -75,16 +75,16 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/o5xxwo1a66grzuj/Screenshot%202014-11-08%2017.42.21.png?dl=1)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/wqful68s0t56sj1/Screenshot%202014-11-08%2017.42.43.png?dl=1)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/fzpobns1hw7s591/Screenshot%202014-11-08%2017.44.33.png?dl=1)
 
 
 ### 4. (5 point)
