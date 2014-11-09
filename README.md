@@ -91,19 +91,27 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/j4140583fhzqr58/Screenshot%202014-11-09%2011.47.37.png?dl=1)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/ywkrc6ugebyobd8/Screenshot%202014-11-09%2011.48.12.png?dl=1)
 
 Query 1
 
-![screenshot](screenshot.png)
+```javascript
+db.ebird.find({"OBSERVATION DATE" : "2004-11-20"}, {"LOCATION":1}).pretty()
+```
+
+![screenshot](https://www.dropbox.com/s/zggz4g8l13nujm2/Screenshot%202014-11-09%2011.55.40.png?dl=1)
 
 Query 2
 
-![screenshot](screenshot.png)
+```javascript
+db.ebird.distinct("LOCALITY", {"LOCATION.COUNTY" : "Boulder"})
+```
+
+![screenshot](https://www.dropbox.com/s/cenhucetrg9n1hw/Screenshot%202014-11-09%2012.09.04.png?dl=1)
 
 
 # Machine Learning III

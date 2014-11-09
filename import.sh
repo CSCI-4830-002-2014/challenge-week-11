@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {0..9}
+for i in {0..79}
 do
-  mongoimport --collection tist --file tist/tist"$i".json --jsonArray
+  mongoimport -d bigdata -c ebird --file ebird/ebird"$i".json --jsonArray
 done
