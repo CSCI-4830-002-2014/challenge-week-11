@@ -44,47 +44,47 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint1.part1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint1.part2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint1.part3.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint2.part1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint2.part2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint2.part3.png)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint3.part1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint3.part2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/2.checkpoint3.part3.png)
 
 
 ### 4. (5 point)
