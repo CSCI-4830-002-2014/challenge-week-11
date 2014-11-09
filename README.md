@@ -10,7 +10,7 @@ Justin McBride
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5
 
 # When did you first start working on this week's learning challenges?
 
@@ -20,6 +20,7 @@ Saturday
 
 CSV to JSON. Not difficult, just time consuming to figure it out.
 Also, too many screen shots required again. When proving that you did a task takes longer than the task itself, that's an issue.
+I also didn't think doing Mongo Challenge 4 was worth it. Too much for only 5 points.
 
 # Graph Database I
 
