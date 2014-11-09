@@ -91,11 +91,11 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/ml/checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/ml/checkpoint2.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
