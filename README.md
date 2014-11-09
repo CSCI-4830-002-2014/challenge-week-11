@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Dawson Botsford
 
 # How many points have you earned?
 
@@ -13,8 +13,7 @@ write-your-name
 fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
-
-fill-in-your-answer
+Friday night
 
 # What is the most difficult part about this week's challenge?
 
@@ -26,7 +25,7 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/KX1wKmr.png)
 
 ### 2. (5 point)
 
