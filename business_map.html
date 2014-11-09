@@ -56,7 +56,11 @@
 
     <script type="text/javascript">
 
-      var dataset = <%- JSON.stringify(data) %>;   
+      var dataset = <%- JSON.stringify(data) %>; 
+
+      var linearScale = d3.scale.linear()
+                           .domain([0,100000])
+                           .range([0,50]);  
 
       // Set the center location (lat/lng) to be the location of the first business                  
       var first = dataset[0];
@@ -93,7 +97,7 @@
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d) {return linearScale(d.review_count);})
             .attr("cx", padding)
             .attr("cy", padding)
             .attr("fill", function(d) {   // <-- Down here!

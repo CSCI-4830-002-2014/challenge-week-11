@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-30/100
+35/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -58,18 +58,18 @@ Query
 
 ### 2. (5 point)
 
-Count
+CCount
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2Q.png)
 
 ### 3. (5 point)
 
