@@ -112,11 +112,11 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/oI6SWSC.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/8xMsYhr.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
