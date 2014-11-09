@@ -4,7 +4,7 @@ filename_path = './raw_touch_data.csv';
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%% Choose feature source %%%%%%%%%%%
-add_accelerometer = false; % Adds accelerometer features
+add_accelerometer = true; % Adds accelerometer features
 add_gyroscope = false; % Adds gyroscope features
 add_magneticField = true; % Adds magnetic field features
 add_gravity = false; % Adds gravity features
