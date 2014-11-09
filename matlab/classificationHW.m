@@ -17,7 +17,7 @@ add_studentID = true; % Adds student ID
 
 %%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
 numTrees = 1; % Try different number of trees for the Random Forest classifier
-sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
+sigma = 10; % Try different values of sigma for the Support Vector Machine classifier
 dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
 K = 2; % Try different values of K for the K-nearest Neighbor classifier
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
