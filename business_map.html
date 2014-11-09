@@ -57,6 +57,7 @@
 
     <script type="text/javascript">
 
+
       var dataset = <%- JSON.stringify(data) %>;   
 
       // Set the center location (lat/lng) to be the location of the first business                  
@@ -92,18 +93,34 @@
             .each(transform)            
             .attr("class", "marker");
 
+        var rscale = d3.scale.linear()
+          .domain([d3.min(dataset, function(d) {return d.review_count;}),  d3.max(dataset, function(d) {return d.review_count; })])
+          .range([3, 15]);
+
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d) { return rscale(d.review_count); })
             .attr("cx", padding)
             .attr("cy", padding)
+            .style("fill-opacity", .5)
+            .style("fill", function (d) {
+              if (d.stars >= 4){
+                return "red";
+              }
+              else if (d.stars >= 3){
+                return "brown";
+              }
+              else {
+                return "black";
+              }
+            });
 
         // Add a label.
         marker.append("svg:text")
             .attr("x", padding + 7)
             .attr("y", padding)
             .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
+        //    .text(function(d) { return d.review_count; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);

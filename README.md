@@ -241,12 +241,12 @@ Features/Parameters
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/5xgkmzX.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/uVJc8NY.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/mCf9sqw.png)
