@@ -36,13 +36,6 @@
         padding-right: 100px;
         font: 10px sans-serif;        
       }
-
-      .markers circle {
-        fill: brown;
-        stroke: black;
-        stroke-width: 1.5px;
-      }
-
     </style>      
   </head>
   <body>
@@ -73,6 +66,10 @@
       // Create an overlay
       var overlay = new google.maps.OverlayView();
 
+      var rScale = d3.scale.linear()
+        .domain([d3.min(dataset, function(d) { return d.stars; }), d3.max(dataset, function(d) { return d.stars; })])
+        .range([3, 10]);
+
 
       // Add the container when the overlay is added to the map.
       overlay.onAdd = function() {
@@ -92,18 +89,24 @@
             .each(transform)            
             .attr("class", "marker");
 
+
+
         // Add a circle.
-        marker.append("svg:circle")
-            .attr("r", 4.5)
+        marker.append("circle")
+            .attr("r", function(d) {
+              return rScale(d.stars);
+            })
             .attr("cx", padding)
             .attr("cy", padding)
+            .attr("fill", function(d) {
+              if (d.stars > 4) return "red";
+              else if (d.stars > 3) return "brown";
+              else return "black";
+            })
+            .attr("stroke-width", 1.5)
+            .attr("stroke-fill", "black")
+            .attr("fill-opacity", 0.5);
 
-        // Add a label.
-        marker.append("svg:text")
-            .attr("x", padding + 7)
-            .attr("y", padding)
-            .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);

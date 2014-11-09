@@ -4,7 +4,7 @@ Justin McBride
 
 # How many points have you earned?
 
-100/100
+95/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -75,16 +75,16 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo3countfindone.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo3countfindone.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](images/mongo3custom.png)
 
 
 ### 4. (5 point)
@@ -195,7 +195,7 @@ Features/Parameters
 	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , $
 	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	
+
 ### 4. (5 point)
 
 Accuracy = 75.8920
@@ -227,28 +227,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](images/d3cp7.png)
