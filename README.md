@@ -225,19 +225,19 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/sw21vIL.jpg)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/kOTh2HV.jpg)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/Wx5fSSN.jpg)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/fEJAIa5.jpg)
 
 ### 5. (5 point)
 
