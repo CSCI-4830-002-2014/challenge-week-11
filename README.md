@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Joshua Ferge
 
 # How many points have you earned?
 
-0/100
+70/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+~7
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Thursday Night
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+mongo stuff
 
 # Graph Database I
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcheck1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcheck2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcheck3.png)
 
 # MongoDB IV
 
@@ -44,27 +44,27 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](mongo3.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo5.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo4.png)
 
 
 Query
@@ -91,11 +91,11 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongo6.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongo7.png)
 
 Query 1
 
@@ -225,23 +225,23 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d31.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d32.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d33.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d34.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d35.png)
 
 ### 6. (5 point)
 
