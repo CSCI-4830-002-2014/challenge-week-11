@@ -225,23 +225,23 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp3.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp5.png)
 
 ### 6. (5 point)
 

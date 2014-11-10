@@ -1,5 +1,5 @@
 0 info it worked if it ends with ok
-1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'csv-to-json' ]
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'dependencies' ]
 2 info using npm@2.0.0
 3 info using node@v0.10.29
 4 verbose stack Error: Invalid name: "D3+MongoDB+Yelp+Map"
@@ -15,7 +15,7 @@
 4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:102:5
 5 verbose cwd /Users/jakecharland/Documents/BigData/challenge-week-11
 6 error Darwin 13.3.0
-7 error argv "node" "/usr/local/bin/npm" "install" "csv-to-json"
+7 error argv "node" "/usr/local/bin/npm" "install" "dependencies"
 8 error node v0.10.29
 9 error npm  v2.0.0
 10 error Invalid name: "D3+MongoDB+Yelp+Map"
