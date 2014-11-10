@@ -1,16 +1,16 @@
 # Name
 
-write-your-name
+Michael Fyk
 
 # How many points have you earned?
 
-0/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6
 
 # When did you first start working on this week's learning challenges?
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](1Neo4j.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](2Neo4j.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](3Neo4j.png)
 
 # MongoDB IV
 
@@ -44,7 +44,7 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](1CMongo.png)
 
 FindOne
 
@@ -60,7 +60,7 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](2CMongo.png)
 
 FindOne
 
@@ -225,28 +225,28 @@ K = 16; % Try different values of K for the K-nearest Neighbor classifier
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](1CD3.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](2CD3.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](3CD3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](4CD3.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](C5D3.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](C6D3.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](C7D3.png)
