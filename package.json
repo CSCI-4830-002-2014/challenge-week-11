@@ -1,5 +1,5 @@
 {
-  "name": "D3+MongoDB+Yelp+Map",  
+  "name": "D3-MongoDB-Yelp-Map",
   "main": "app.js",
   "engines": {
     "node": "0.10.29"
@@ -8,10 +8,11 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "~4.5.1",
-    "ejs": "~1.0.0",
     "d3": "~3.4.9",
-    "mongodb" : "*",  
-    "mongoskin" : "*"
+    "ejs": "~1.0.0",
+    "express": "~4.5.1",
+    "mongodb": "*",
+    "mongoskin": "*",
+    "xmlhttprequest": "^1.6.0"
   }
 }
