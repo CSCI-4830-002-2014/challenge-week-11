@@ -34,7 +34,7 @@
         width: 60px;
         height: 20px;
         padding-right: 100px;
-        font: 10px sans-serif;        
+        font: 10px sans-serif;
       }
 
       .markers circle {
@@ -57,7 +57,7 @@
 
     <script type="text/javascript">
 
-      var dataset = <%- JSON.stringify(data) %>;   
+      var dataset = <%- JSON.stringify(data) %>;
 
       // Set the center location (lat/lng) to be the location of the first business                  
       var first = dataset[0];
@@ -79,6 +79,14 @@
       var layer = d3.select(this.getPanes().overlayLayer).append("div")
           .attr("class", "markers");
 
+      var range = d3.extent(dataset, function(d){
+        return d.review_count;
+      });
+
+      var scale = d3.scale.linear()
+        .domain(range)
+        .range([3, 15]);
+
       // Draw each marker as a separate SVG element
       overlay.draw = function() {
         var projection = this.getProjection(),
@@ -89,21 +97,31 @@
             .data(dataset)
             .each(transform) // update existing markers
             .enter().append("svg:svg")
-            .each(transform)            
+            .each(transform)
             .attr("class", "marker");
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d){ return scale(d.review_count); })
             .attr("cx", padding)
             .attr("cy", padding)
+            .style("fill-opacity", 0.3)
+            .style("fill", function(d){
+              if (d.stars >= 4)
+                return 'red'
+              else if (d.stars >= 3)
+                return 'brown'
+              else
+                return 'black'
+            });
+
 
         // Add a label.
-        marker.append("svg:text")
-            .attr("x", padding + 7)
-            .attr("y", padding)
-            .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
+        // marker.append("svg:text")
+        //     .attr("x", padding + 7)
+        //     .attr("y", padding)
+        //     .attr("dy", ".31em")
+        //     .text(function(d) { return d.review_count; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);

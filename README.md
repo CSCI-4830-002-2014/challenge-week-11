@@ -4,11 +4,11 @@ Austin Wood
 
 # How many points have you earned?
 
-45/100
+100/100
 
 # How many hours have you spent on this?
 
-90 minutes.
+9 hours.
 
 # When did you first start working on this week's learning challenges?
 
@@ -16,7 +16,9 @@ Saturday November 8, 2014, 11:50pm
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The mongo files were huge, and some took forever to get into mongo. I don't really
+understand what we even learned in doing this mongo challenge; it just felt like 
+repetitive exercises...
 
 # Graph Database I
 
@@ -42,63 +44,62 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![challenge 1a](img/mongo_ch1-count.png?raw=true)
 
 FindOne
 
-![screenshot](screenshot.png)
+![challenge 1b](img/mongo_ch1-findOne.png?raw=true)
 
 Query
 
-![screenshot](screenshot.png)
-
+![challenge 1c](img/mongo_ch1-query.png?raw=true)
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![challenge 2a](img/mongo_ch2-count.png?raw=true)
 
 FindOne
 
-![screenshot](screenshot.png)
+![challenge 2b](img/mongo_ch2-findOne.png?raw=true)
 
 Query
 
-![screenshot](screenshot.png)
+![challenge 2c](img/mongo_ch2-query.png?raw=true)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![challenge 3a](img/mongo_ch3-count.png?raw=true)
 
 FindOne
 
-![screenshot](screenshot.png)
+![challenge 3b](img/mongo_ch3-findOne.png?raw=true)
 
 Query
 
-![screenshot](screenshot.png)
+![challenge 3c](img/mongo_ch3-query.png?raw=true)
 
 
 ### 4. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![challenge 4a](img/mongo_ch4-count.png?raw=true)
 
 FindOne
 
-![screenshot](screenshot.png)
+![challenge 4b](img/mongo_ch4-findOne.png?raw=true)
 
 Query 1
 
-![screenshot](screenshot.png)
+![challenge 4c](img/mongo_ch4-query1.png?raw=true)
 
 Query 2
 
-![screenshot](screenshot.png)
+![challenge 4d](img/mongo_ch4-query2.png?raw=true)
 
 
 # Machine Learning III
@@ -220,28 +221,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 1](img/d3_ch1.png?raw=true)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![challenge 2](img/d3_ch2.png?raw=true)
