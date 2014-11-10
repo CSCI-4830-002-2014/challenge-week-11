@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-42/100
+45/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -243,7 +243,7 @@ Features/Parameters
 
 ### 6. (5 point)
 
-My app randomly stopped working before I could get this part done (I tried starting over with new code, but to no avail).
+My app randomly stopped working before I could get parts 6 and 7 done (I tried starting over with new code, but to no avail).
 
 Here is the linear scale function I created in my code. 
 
@@ -254,5 +254,7 @@ Here is where I call the scale function on the circles.
 ![screenshot](D3Checkpoint61.png)
 
 ### 7. (5 point)
+
+Here is where I put the code to make the circles opaque. 
 
 ![screenshot](D3Checkpoint7.png)
