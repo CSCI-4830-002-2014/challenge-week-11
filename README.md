@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Daniel Nolan
 
 # How many points have you earned?
 
-0/100
+15/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+1
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday night
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting MATLAB to work
 
 # Graph Database I
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/8li9Lys.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/RQiLYuF.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/HKmIQ5c.png)
 
 # MongoDB IV
 
