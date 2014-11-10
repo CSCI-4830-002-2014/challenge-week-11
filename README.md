@@ -4,21 +4,21 @@ Irfan Nadiadi
 
 # How many points have you earned?
 
-0/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6.5
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Sunday evening
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I didn't realize that the Yelp geo-data we compiled would be used in D3. I usually use a VM to run mongo because it doesn't play well with my OS X. However, it's faster for me to do D3 in OS X, so I had to reinstall Mongo and the other Node modules before I could even begin the D3 checkpoints.
 
 # Graph Database I
 
@@ -225,28 +225,29 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+I tried for a long time but couldn't get my linear scale to work properly.
+![screenshot](d3/Check6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check7.png)
