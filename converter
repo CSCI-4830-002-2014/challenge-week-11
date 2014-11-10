@@ -1,0 +1,7 @@
+f1 = open('ebird1m.txt', 'r')
+f2 = open('ebird1m.txt.tmp', 'w')
+for line in f1:
+    f2.write(line.replace(', ', '_'))
+    f2.write(line.replace('\t',','))
+f1.close()
+f2.close()
