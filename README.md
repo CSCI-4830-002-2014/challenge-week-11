@@ -10,15 +10,15 @@ Michael Fyk
 
 # How many hours have you spent on this?
 
-6
+5
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Finding access to Matlab, formatting the MongoDB data
 
 # Graph Database I
 
