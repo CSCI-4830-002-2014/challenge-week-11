@@ -18,7 +18,7 @@ Wednesday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I accidently imported the wrong dataset at one point, which took four hours.  Had problems converting csv into json and importing in one go due to mongo size restrictions, so instead I directly imported each row by converting it to json and passing it in one by one.
 
 # Graph Database I
 
