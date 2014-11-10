@@ -14,7 +14,7 @@ app.get('/state/:state', function(req, res) {
     var projection = {};
     db.collection('businesses')
         .find(query,projection).sort({"review_count":-1})
-        .limit(20)
+        .limit(500)
         .toArray(function (err, items) {        
             res.render("business_map", {data: items});        
     });

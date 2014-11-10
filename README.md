@@ -249,4 +249,4 @@ Features/Parameters
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint7.png)
