@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Michael Aaron
 
 # How many points have you earned?
 
-0/100
+93/100 [points docced from Mongo]
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+6:00 pm
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Wondering why this question is at the start instead of the end. My confusion is overwhelming
 
 # Graph Database I
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/ik9zyb9ydw2zw1s/Screenshot%202014-11-05%2018.21.29.png?dl=1)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/t7eqg952wjl5ns9/Screenshot%202014-11-07%2013.25.41.png?dl=1)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/u4rhpj00ibxf0b3/Screenshot%202014-11-07%2013.27.14.png?dl=1)
 
 # MongoDB IV
 
@@ -42,49 +42,29 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-Count
+find({type: "Review"}).count()
 
-![screenshot](screenshot.png)
-
-FindOne
-
-![screenshot](screenshot.png)
-
-
-Query
-
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p0d30u5a2z3maq0/Screenshot%202014-11-07%2014.26.17.png?dl=1)
 
 
 ### 2. (5 point)
 
-Count
-
-![screenshot](screenshot.png)
-
-FindOne
-
-![screenshot](screenshot.png)
-
-
-Query
-
-![screenshot](screenshot.png)
+The file is a huge bitch on windows and I don't want to install a VM due to harddrive concerns - I'll take the 5 point hit on this after spending like 2 hours trying to get the file to parse (the line endings are being a pain)
 
 ### 3. (5 point)
 
-Count
+db.tist_data.Count()
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/u3klppzhy0xkifo/Screenshot%202014-11-10%2013.06.01.png?dl=1)
 
 FindOne
+db.tist_data.findOne()
+![screenshot](https://www.dropbox.com/s/p28qxvgl7h578sn/Screenshot%202014-11-10%2013.06.33.png?dl=1)
 
-![screenshot](screenshot.png)
 
+Query.find({Country: "IN"})
 
-Query
-
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2013.09.27.png?dl=1)
 
 
 ### 4. (5 point)
@@ -115,7 +95,7 @@ Query 2
 ![screenshot](screenshot.png)
 
 ### 2. (5 point)
-
+Yes, accuracy increased with the change 
 ![screenshot](screenshot.png)
 
 ## Challenges (5 points x 4 = 20 points)
