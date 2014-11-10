@@ -10,15 +10,15 @@ Adrian Chen
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8
 
 # When did you first start working on this week's learning challenges?
 
-THursday
+Thursday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting the mongoDB to corrrectly accept my JSON. After 3 hours and no clue where to try next, I gave up.
 
 # Graph Database I
 
@@ -44,11 +44,11 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongoDB/CP1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](mongoDB/CP2.png)
 
 
 Query
@@ -112,11 +112,11 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](matlab/CP1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](matlab/CP2.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
