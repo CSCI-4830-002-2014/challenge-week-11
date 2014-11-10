@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Chris Wittenberg
 
 # How many points have you earned?
 
-0/100
+45/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Wednesday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting Neo4j to find the right version of java. Also converting the csv file to json.
 
 # Graph Database I
 
@@ -44,47 +44,45 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint1Q.png)
 
 
 ### 2. (5 point)
 
-Count
+CCount
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint2Q.png)
 
 ### 3. (5 point)
 
-Count
-
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3Q.png)
 
 
 ### 4. (5 point)
@@ -225,28 +223,38 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+My app randomly stopped working before I could get parts 6 and 7 done (I tried starting over with new code, but to no avail).
+
+Here is the linear scale function I created in my code. 
+
+![screenshot](D3Checkpoint61.png)
+
+Here is where I call the scale function on the circles.
+
+![screenshot](D3Checkpoint61.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+Here is where I put the code to make the circles opaque. 
+
+![screenshot](D3Checkpoint7.png)
