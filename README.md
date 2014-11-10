@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check3.png)
 
 # MongoDB IV
 
@@ -44,11 +44,11 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge1-1.png)
 
 FindOne
-
-![screenshot](screenshot.png)
+ 
+![screenshot](yelp/challenge1-2.png)
 
 
 Query
@@ -60,11 +60,11 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge2-1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge2-2.png)
 
 
 Query
