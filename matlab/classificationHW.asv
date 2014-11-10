@@ -16,9 +16,9 @@ add_studentID = false; % Adds student ID
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-numTrees = 10; % Try different number of trees for the Random Forest classifier
+numTrees = 1; % Try different number of trees for the Random Forest classifier
 sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
-dist = 'mvmn'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
 K = 20; % Try different values of K for the K-nearest Neighbor classifier
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -70,8 +70,8 @@ train = temp(1:round(0.50*length(temp))); % train samples (50% of data samples)
 test = temp(round(0.50*length(temp))+1:end); % test samples (remaining 50% of data samples)
 
 % Classify using K-nearest neighbor
-%prediction = knnclassify(feat(test,:), feat(train, :), label(train), K);
-%accuracyKNN = numel(find(prediction == label(test)'))/length(test)*100
+prediction = knnclassify(feat(test,:), feat(train, :), label(train), K);
+accuracyKNN = numel(find(prediction == label(test)'))/length(test)*100
 
 % Classify using Naive Bayes
 NB = NaiveBayes.fit(feat(train,:),label(train),'Distribution', dist);
