@@ -4,7 +4,7 @@ Sam Korn
 
 # How many points have you earned?
 
-65/100
+70/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
