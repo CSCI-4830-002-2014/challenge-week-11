@@ -4,7 +4,7 @@ Joshua Ferge
 
 # How many points have you earned?
 
-70/100
+60/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -112,11 +112,11 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](matlab1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](matlab2.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
