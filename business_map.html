@@ -73,6 +73,9 @@
       // Create an overlay
       var overlay = new google.maps.OverlayView();
 
+       var scale = d3.scale.linear()
+          .domain([0, d3.max(dataset, function(d){return d.review_count;})])
+          .range([3,15]);
 
       // Add the container when the overlay is added to the map.
       overlay.onAdd = function() {
@@ -94,16 +97,28 @@
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d){return scale(d.review_count);})
             .attr("cx", padding)
             .attr("cy", padding)
+            .style("fill-opacity", .5)
+            .style("fill", function(d){
+              if (d.stars >= 4){
+                  return "red";
+              }
+              else if(d.stars >= 3){
+                return "brown";
+              }
+              else{
+                return "black";
+              }
+            });
 
         // Add a label.
         marker.append("svg:text")
             .attr("x", padding + 7)
             .attr("y", padding)
             .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
+            .text(function(d) { return d.review_count; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);

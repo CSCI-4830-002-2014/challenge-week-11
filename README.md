@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Jake Charland
 
 # How many points have you earned?
 
-0/100
+60/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+10
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+matlab
 
 # Graph Database I
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp3.png)
 
 # MongoDB IV
 
@@ -44,7 +44,7 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongochallenge1.png)
 
 FindOne
 
@@ -60,7 +60,7 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongochallenge2.png)
 
 FindOne
 
@@ -225,28 +225,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp3.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp7.png)
