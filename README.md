@@ -168,7 +168,7 @@ Features/Parameters
 
 ### 3. (5 point)
 
-![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.06.27.png?dl=1)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.06.27.png?dl=1)        
 
 ### 4. (5 point)
 
