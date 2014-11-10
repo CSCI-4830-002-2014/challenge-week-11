@@ -67,25 +67,22 @@ FindOne
 
 ![screenshot](challenge2-2mongo.png)
 
-
 Query
-
-![screenshot](challenge2-3mongo.png)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](challenge3-1.png)
+![screenshot](challenge3-1mongo.png)
 
 FindOne
 
-![screenshot](challenge3-2.png)
+![screenshot](challenge3-2mongo.png)
 
 
 Query
 
-![screenshot](challenge3-3.png)
+![screenshot](challenge3-3mongo.png)
 
 
 ### 4. (5 point)
