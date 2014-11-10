@@ -4,13 +4,13 @@ Alexia Newgord
 
 # How many points have you earned?
 
-0/100
+100/100, but a day late
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8ish
 
 # When did you first start working on this week's learning challenges?
 
