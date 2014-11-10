@@ -73,6 +73,9 @@
       // Create an overlay
       var overlay = new google.maps.OverlayView();
 
+       var scale = d3.scale.linear()
+          .domain([0, d3.max(dataset, function(d){return d.review_count;})])
+          .range([3,15]);
 
       // Add the container when the overlay is added to the map.
       overlay.onAdd = function() {
@@ -94,7 +97,7 @@
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5})
+            .attr("r", function(d){return scale(d.review_count);})
             .attr("cx", padding)
             .attr("cy", padding)
             .style("fill-opacity", .5)

@@ -3,11 +3,7 @@ var express = require('express');
 var app = express();
 
 var mongo = require('mongoskin');
-var username = 'hacker' // TODO
-var password = 'mongodb' // TODO
-var url = 'ds047940.mongolab.com:47940' // TODO
-var db = mongo.db('mongodb://'+username+':'+password+'@'+url+'/yelp', {safe:true})
-var app = express();
+var db = mongo.db("mongodb://{USERNAME}:{PASSWORD}@{SEVERURL}", {native_parser:true});
 
 app.engine('.html', require('ejs').__express);
 app.set('views', __dirname);
@@ -18,8 +14,7 @@ app.get('/state/:state', function(req, res) {
     var projection = {};
     db.collection('business')
         .find(query,projection)
-        .limit(1000)
-        .sort({"review_count":-1})
+        .limit(20)
         .toArray(function (err, items) {        
             res.render("business_map", {data: items});        
     });
