@@ -4,7 +4,7 @@ Sam Korn
 
 # How many points have you earned?
 
-60/100
+65/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -237,15 +237,15 @@ Features/Parameters
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](D3Checkpoint6.png)
 
 ### 7. (5 point)
 

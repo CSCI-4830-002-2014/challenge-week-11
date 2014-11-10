@@ -13,7 +13,7 @@ app.get('/state/:state', function(req, res) {
     var query = {"state" : req.params.state};
     var projection = {};
     db.collection('businesses')
-        .find(query,projection)
+        .find(query,projection).sort({"review_count":-1})
         .limit(20)
         .toArray(function (err, items) {        
             res.render("business_map", {data: items});        
