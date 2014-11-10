@@ -4,7 +4,7 @@ Dawson Botsford
 
 # How many points have you earned?
 
-0/100
+95/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -16,8 +16,7 @@ fill-in-your-answer
 Friday night
 
 # What is the most difficult part about this week's challenge?
-
-fill-in-your-answer
+MongoDB file size. Too big for my computer. And what machine learning concepts did that section teach us? None. So that part was not accomplishing it's purpose and felt like a misuse of my time.
 
 # Graph Database I
 
