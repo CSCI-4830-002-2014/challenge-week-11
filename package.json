@@ -1,5 +1,5 @@
 {
-  "name": "D3+MongoDB+Yelp+Map",  
+  "name": "D3_MongoDB_Yelp_Map",  
   "main": "app.js",
   "engines": {
     "node": "0.10.29"

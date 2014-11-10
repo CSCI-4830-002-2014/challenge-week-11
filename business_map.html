@@ -103,7 +103,7 @@
             .attr("x", padding + 7)
             .attr("y", padding)
             .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
+            .text(function(d) { return d.review_count; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);
