@@ -160,28 +160,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2013.14.27.png?dl=0)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.01.23.png?dl=1)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.06.27.png?dl=1)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.15.12png?dl=1)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.20.53.png?dl=1)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.25.30.png?dl=1)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/p48uvo85bky0ksi/Screenshot%202014-11-10%2014.39.09.png?dl=1)
