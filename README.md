@@ -4,13 +4,13 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-39/100
+42/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # When did you first start working on this week's learning challenges?
 
@@ -243,7 +243,15 @@ Features/Parameters
 
 ### 6. (5 point)
 
-![screenshot](D3Checkpoint6.png)
+My app randomly stopped working before I could get this part done (I tried starting over with new code, but to no avail).
+
+Here is the linear scale function I created in my code. 
+
+![screenshot](D3Checkpoint61.png)
+
+Here is where I call the scale function on the circles.
+
+![screenshot](D3Checkpoint61.png)
 
 ### 7. (5 point)
 
