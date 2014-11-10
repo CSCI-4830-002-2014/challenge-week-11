@@ -73,6 +73,10 @@
       // Create an overlay
       var overlay = new google.maps.OverlayView();
 
+      function getRC(d) { return d.review_count }
+      var sizeScale = d3.scale.linear()
+          .domain([d3.min(dataset, getRC), d3.max(dataset, getRC)])
+          .range([3,15]);
 
       // Add the container when the overlay is added to the map.
       overlay.onAdd = function() {
@@ -83,7 +87,12 @@
       overlay.draw = function() {
         var projection = this.getProjection(),
             padding = 10;
-
+	
+		function fill(d) {
+			if (d.stars >= 4) return 'red';
+			if (d.stars >= 3) return 'brown';
+			return 'black';
+		}
 
         var marker = layer.selectAll("svg")
             .data(dataset)
@@ -94,17 +103,19 @@
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d) {return sizeScale(getRC(d))})
             .attr("cx", padding)
             .attr("cy", padding)
-
+			.style('fill', fill)
+            .style('fill-opacity', 0.5);
+/*
         // Add a label.
         marker.append("svg:text")
             .attr("x", padding + 7)
             .attr("y", padding)
             .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
-
+            .text(function(d) { return d.review_count; });
+*/
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);
           d = projection.fromLatLngToDivPixel(d);
