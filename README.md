@@ -4,13 +4,13 @@ Logan Bates
 
 # How many points have you earned?
 
-15/100
+95/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # When did you first start working on this week's learning challenges?
 
@@ -18,7 +18,7 @@ Tuesday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Challenge 4 mongo
 
 # Graph Database I
 
@@ -44,47 +44,48 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](challenge1-1mongo.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](challenge1-2mongo.png)
 
 
-Query
+Query (db.reviews.find({'stars':5}, {'text':1}))
+Find all text for 5 star reviews
 
-![screenshot](screenshot.png)
+![screenshot](challenge1-3mongo.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](challenge2-1mongo.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](challenge2-2mongo.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](challenge2-3mongo.png)
 
 ### 3. (5 point)
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](challenge3-1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](challenge3-2.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](challenge3-3.png)
 
 
 ### 4. (5 point)
@@ -112,112 +113,112 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint1machine.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint2machine.png)
 
 ## Challenges (5 points x 4 = 20 points)
 
 ### 1. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 74.7348
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = true; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	 
+
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 1; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine class$
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , $
+	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 2. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 67.1167
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = true; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	 
+
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 1; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine class$
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , $
+	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 3. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 71.3597
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = true; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	 
+
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 1; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine class$
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , $
+	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 4. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 75.8920
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = false; % Adds accelerometer features
+	add_gyroscope = false; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = false; % Adds linear acceleration features
+	add_orientation = true; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	 
+
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 10; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine class$
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , $
+	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -225,28 +226,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint1d3.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint2d3.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint3d3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint4d3.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint5d3.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint6d3.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](checkpoint7d3.png)
