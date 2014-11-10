@@ -4,13 +4,13 @@ Jake Charland
 
 # How many points have you earned?
 
-0/100
+60/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+10
 
 # When did you first start working on this week's learning challenges?
 
@@ -18,7 +18,7 @@ Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+matlab
 
 # Graph Database I
 
