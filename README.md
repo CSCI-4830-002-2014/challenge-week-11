@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jake Charland
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](graphcp3.png)
 
 # MongoDB IV
 
@@ -44,7 +44,7 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongochallenge1.png)
 
 FindOne
 
@@ -60,7 +60,7 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](mongochallenge2.png)
 
 FindOne
 
