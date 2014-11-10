@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Jake White
 
 # How many points have you earned?
 
-0/100
+15/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/tbmh0vV.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/OpoQjse.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/ztGboTU.png)
 
 # MongoDB IV
 
