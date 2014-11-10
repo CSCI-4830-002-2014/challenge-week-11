@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Ian Ker-Seymer
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100/100
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+9
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Friday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Parsing the data. First, I tried to multithread it for fun, that brought some
+serious synchronization issues and eventually just settled on doing it
+synchronously (slow!).
 
 # Graph Database I
 
@@ -231,28 +231,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/5xlxr3j6op5t9lk/Screenshot%202014-11-09%2016.37.49.png?dl=1)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/zbqsa8uid0uncfr/Screenshot%202014-11-09%2016.53.16.png?dl=1)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/r4xqw7hviiv725p/Screenshot%202014-11-09%2017.05.34.png?dl=1)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/bt18m977kzosfex/Screenshot%202014-11-09%2017.06.49.png?dl=1)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/3d7slbp07cyy6ml/Screenshot%202014-11-09%2018.49.32.png?dl=1)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/0j6bgoa60k9cybd/Screenshot%202014-11-09%2019.08.12.png?dl=1)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](https://www.dropbox.com/s/4f69czhh2gq8w0n/Screenshot%202014-11-09%2019.09.28.png?dl=1)
