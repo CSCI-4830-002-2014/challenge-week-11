@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
