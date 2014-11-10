@@ -245,8 +245,8 @@ Features/Parameters
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3cp7.png)
