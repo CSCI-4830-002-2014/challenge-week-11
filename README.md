@@ -48,28 +48,28 @@ Count
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](1bCMongo.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](1cCMongo.png)
 
 
 ### 2. (5 point)
 
 Count
 
-![screenshot](2CMongo.png)
+![screenshot](2AMongo.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](2BMongo.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](2CMongo.png)
 
 ### 3. (5 point)
 
