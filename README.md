@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-35/100
+39/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -18,7 +18,7 @@ Wednesday
 
 # What is the most difficult part about this week's challenge?
 
-Getting the damn neo4j to find the right version of java.
+Getting Neo4j to find the right version of java. Also converting the csv file to json.
 
 # Graph Database I
 
@@ -73,18 +73,16 @@ Query
 
 ### 3. (5 point)
 
-Count
-
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3C.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3F.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](MCheckpoint3Q.png)
 
 
 ### 4. (5 point)
