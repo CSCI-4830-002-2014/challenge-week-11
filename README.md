@@ -241,12 +241,12 @@ K = 16; % Try different values of K for the K-nearest Neighbor classifier
 
 ### 5. (5 point)
 
-![screenshot](5CD3.png)
+![screenshot](C5D3.png)
 
 ### 6. (5 point)
 
-![screenshot](6CD3.png)
+![screenshot](C6D3.png)
 
 ### 7. (5 point)
 
-![screenshot](7CD3.png)
+![screenshot](C7D3.png)
