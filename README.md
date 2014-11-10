@@ -204,28 +204,28 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshots/d3/challenge1.png)
+![screenshot](screenshots/d3/checkpoint1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshots/d3/challenge2.png)
+![screenshot](screenshots/d3/checkpoint2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshots/d3/challenge3.png)
+![screenshot](screenshots/d3/checkpoint3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshots/d3/challenge4.png)
+![screenshot](screenshots/d3/checkpoint4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshots/d3/challenge5.png)
+![screenshot](screenshots/d3/checkpoint5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshots/d3/challenge6.png)
+![screenshot](screenshots/d3/checkpoint6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshots/d3/challenge7.png)
+![screenshot](screenshots/d3/checkpoint7.png)
