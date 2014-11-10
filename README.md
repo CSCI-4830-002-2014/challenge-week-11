@@ -10,7 +10,7 @@ Dawson Botsford
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8
 
 # When did you first start working on this week's learning challenges?
 Friday night
@@ -24,15 +24,15 @@ MongoDB file size. Too big for my computer. And what machine learning concepts d
 
 ### 1. (5 point)
 
-![screenshot](http://i.imgur.com/KX1wKmr.png)
+![screenshot](http://i.imgur.com/90pmgmf.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/KbfPjHE.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/JfJpNI7.png)
 
 # MongoDB IV
 
