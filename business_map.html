@@ -38,7 +38,6 @@
       }
 
       .markers circle {
-        fill: brown;
         stroke: black;
         stroke-width: 1.5px;
       }
@@ -92,18 +91,31 @@
             .each(transform)            
             .attr("class", "marker");
 
+        var rScale = d3.scale.linear()
+          .domain([
+            d3.min(dataset, function(d) { return d.stars; }), 
+            d3.max(dataset, function(d) { return d.stars; })])
+          .range([3, 10]);
+
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d) {
+              return rScale(d.stars);
+            })
             .attr("cx", padding)
             .attr("cy", padding)
+            .attr("fill", function(d) {
+              if (d.stars > 4) return "red";
+              if (d.stars > 3) return "brown";
+              return "black";})
+            .attr("fill-opacity", .6);
 
         // Add a label.
-        marker.append("svg:text")
-            .attr("x", padding + 7)
-            .attr("y", padding)
-            .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
+        // marker.append("svg:text")
+        //     .attr("x", padding + 7)
+        //     .attr("y", padding)
+        //     .attr("dy", ".31em")
+        //     .text(function(d) { return d.review_count; });
 
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);
