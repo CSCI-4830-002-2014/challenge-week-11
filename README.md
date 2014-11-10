@@ -1,24 +1,24 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
-0/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6.5
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Sunday evening
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I didn't realize that the Yelp geo-data we compiled would be used in D3. I usually use a VM to run mongo because it doesn't play well with my OS X. However, it's faster for me to do D3 in OS X, so I had to reinstall Mongo and the other Node modules before I could even begin the D3 checkpoints.
 
 # Graph Database I
 
@@ -26,15 +26,15 @@ fill-in-your-answer
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](neo4j/check3.png)
 
 # MongoDB IV
 
@@ -44,11 +44,11 @@ fill-in-your-answer
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge1-1.png)
 
 FindOne
-
-![screenshot](screenshot.png)
+ 
+![screenshot](yelp/challenge1-2.png)
 
 
 Query
@@ -60,11 +60,11 @@ Query
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge2-1.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](yelp/challenge2-2.png)
 
 
 Query
@@ -112,112 +112,112 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](machine_learning/check1.PNG)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](machine_learning/check2.PNG)
 
 ## Challenges (5 points x 4 = 20 points)
 
 ### 1. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 84.5709
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = true; % Adds accelerometer features
+	add_gyroscope = true; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = true; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 3; % Try different number of trees for the Random Forest classifier
+	sigma = 3; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 8; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 2. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 75.8920
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = true; % Adds accelerometer features
+	add_gyroscope = true; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = true; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 3; % Try different number of trees for the Random Forest classifier
+	sigma = 1; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 20; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 3. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 95.4677
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = true; % Adds accelerometer features
+	add_gyroscope = true; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = true; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 3; % Try different number of trees for the Random Forest classifier
+	sigma = 3; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'kernel'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 10; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### 4. (5 point)
 
-Accuracy = {fill-in-your-best-number}
+Accuracy = 85.9209
 
 Features/Parameters
 
 	%%%%%%%%% Choose feature source %%%%%%%%%%%
-	add_accelerometer = {TODO}; % Adds accelerometer features
-	add_gyroscope = {TODO}; % Adds gyroscope features
-	add_magneticField = {TODO}; % Adds magnetic field features
-	add_gravity = {TODO}; % Adds gravity features
-	add_linearAcceleration = {TODO}; % Adds linear acceleration features
-	add_orientation = {TODO}; % Adds azimuth, pich and roll features
-	add_light = {TODO}; % Adds light value
-	add_proximity = {TODO}; % Adds proximity value
-	add_studentID = {TODO}; % Adds student ID
+	add_accelerometer = true; % Adds accelerometer features
+	add_gyroscope = true; % Adds gyroscope features
+	add_magneticField = true; % Adds magnetic field features
+	add_gravity = false; % Adds gravity features
+	add_linearAcceleration = true; % Adds linear acceleration features
+	add_orientation = false; % Adds azimuth, pich and roll features
+	add_light = false; % Adds light value
+	add_proximity = false; % Adds proximity value
+	add_studentID = false; % Adds student ID
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	 
 	%%%%%%%%% Choose machine learning classifier parameters %%%%%%%%%%%%%%%
-	numTrees = {TODO}; % Try different number of trees for the Random Forest classifier
-	sigma = {TODO}; % Try different values of sigma for the Support Vector Machine classifier
-	dist = {TODO}; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
-	K = {TODO}; % Try different values of K for the K-nearest Neighbor classifier
+	numTrees = 3; % Try different number of trees for the Random Forest classifier
+	sigma = 3; % Try different values of sigma for the Support Vector Machine classifier
+	dist = 'normal'; % Try different distributions = {'normal', 'kernel', 'mvmn' , 'mn'} for Naive Bayes classifier
+	K = 09; % Try different values of K for the K-nearest Neighbor classifier
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -225,28 +225,29 @@ Features/Parameters
 
 ### 1. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check1.png)
 
 ### 2. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check2.png)
 
 ### 3. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check3.png)
 
 ### 4. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check4.png)
 
 ### 5. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check5.png)
 
 ### 6. (5 point)
 
-![screenshot](screenshot.png)
+I tried for a long time but couldn't get my linear scale to work properly.
+![screenshot](d3/Check6.png)
 
 ### 7. (5 point)
 
-![screenshot](screenshot.png)
+![screenshot](d3/Check7.png)
