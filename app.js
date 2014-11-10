@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 var mongo = require('mongoskin');
-var db = mongo.db("mongodb://mike:bigdata@ds051980.mongolab.com:51980/yelpdata", {native_parser:true});
+var db = mongo.db("mongodb://user and password@ds051980.mongolab.com:51980/yelpdata", {native_parser:true});
 
 app.engine('.html', require('ejs').__express);
 app.set('views', __dirname);
