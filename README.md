@@ -42,34 +42,11 @@ Getting the mongoDB to corrrectly accept my JSON. After 3 hours and no clue wher
 
 ### 1. (5 point)
 
-Count
-
 ![screenshot](mongoDB/CP1.png)
-
-FindOne
-
-![screenshot](mongoDB/CP2.png)
-
-
-Query
-
-![screenshot](screenshot.png)
-
 
 ### 2. (5 point)
 
-Count
-
-![screenshot](screenshot.png)
-
-FindOne
-
-![screenshot](screenshot.png)
-
-
-Query
-
-![screenshot](screenshot.png)
+![screenshot](mongoDB/CP2.png)
 
 ### 3. (5 point)
 
@@ -112,16 +89,18 @@ Query 2
 
 ### 1. (5 point)
 
-![screenshot](matlab/CP1.png)
+![screenshot](matlab/CP1.PNG)
+Couldn't get the toolboxes for knnclassify and svmtrain without paying.
 
 ### 2. (5 point)
 
-![screenshot](matlab/CP2.png)
+![screenshot](matlab/CP2.PNG)
+Changed numTrees to 10, and dist to 'mvmn'.
 
 ## Challenges (5 points x 4 = 20 points)
 
 ### 1. (5 point)
-
+N/A
 Accuracy = {fill-in-your-best-number}
 
 Features/Parameters
@@ -172,6 +151,7 @@ Features/Parameters
 
 ### 3. (5 point)
 
+N/A
 Accuracy = {fill-in-your-best-number}
 
 Features/Parameters
