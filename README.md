@@ -4,13 +4,13 @@ Daniel Nolan
 
 # How many points have you earned?
 
-15/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-1
+5
 
 # When did you first start working on this week's learning challenges?
 
@@ -44,16 +44,16 @@ Getting MATLAB to work
 
 Count
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/fYm2EVO.png)
 
 FindOne
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/Nl88zUP.png)
 
 
 Query
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/fNy1gmF.png)
 
 
 ### 2. (5 point)
