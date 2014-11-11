@@ -38,9 +38,9 @@
       }
 
       .markers circle {
-        fill: brown;
         stroke: black;
         stroke-width: 1.5px;
+        fill-opacity: .5;
       }
 
     </style>      
@@ -57,7 +57,14 @@
 
     <script type="text/javascript">
 
+
+
       var dataset = <%- JSON.stringify(data) %>;   
+
+      var rScale = d3.scale.linear()
+            .domain([50, 5000])
+            .range(3, 15);
+ 
 
       // Set the center location (lat/lng) to be the location of the first business                  
       var first = dataset[0];
@@ -94,17 +101,23 @@
 
         // Add a circle.
         marker.append("svg:circle")
-            .attr("r", 4.5)
+            .attr("r", function(d) {return d.review_count/5000*15;})
             .attr("cx", padding)
             .attr("cy", padding)
+            .style("fill", function(d) {
+            if (d.stars >= 4) {return "red"}
+            else if (d.stars >=2) {return "brown"} else
 
+              { return "black" }
+        ;})                                    
         // Add a label.
-        marker.append("svg:text")
+
+        /*marker.append("svg:text")
             .attr("x", padding + 7)
             .attr("y", padding)
             .attr("dy", ".31em")
-            .text(function(d) { return d.name; });
-
+            .text(function(d) { return d.review_count; });
+*/
         function transform(d) {
           d = new google.maps.LatLng(d.latitude, d.longitude);
           d = projection.fromLatLngToDivPixel(d);
