@@ -4,7 +4,7 @@ Daniel Nolan
 
 # How many points have you earned?
 
-90/100
+55/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -18,7 +18,7 @@ Saturday night
 
 # What is the most difficult part about this week's challenge?
 
-Getting MATLAB to work
+Getting MATLAB to work, Mongo server, D3 due to mongo not working from d3 lab
 
 # Graph Database I
 
